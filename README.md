@@ -1,8 +1,8 @@
-#Análisis de Tiendas - Proyecto Challenge Alura Latam
+# Análisis de Tiendas - Proyecto Challenge Alura Latam
 
 Este proyecto forma parte del Challenge de Ciencia de Datos de Alura Latam. El objetivo principal es ayudar al **Sr. Juan** a decidir cuál de sus cuatro tiendas vender, basándose en un análisis completo de desempeño.
 
-##Objetivo
+## Objetivo
 
 Analizar y comparar el rendimiento de las 4 tiendas del Sr. Juan usando Python y bibliotecas como `pandas`, `numpy`, `matplotlib` y `seaborn`. Los criterios analizados incluyen:
 
@@ -12,7 +12,7 @@ Analizar y comparar el rendimiento de las 4 tiendas del Sr. Juan usando Python y
 - Productos más y menos vendidos
 - Costo de envío promedio
 
-##Herramientas utilizadas
+## Herramientas utilizadas
 
 - Python 3
 - Google Colab
@@ -20,7 +20,7 @@ Analizar y comparar el rendimiento de las 4 tiendas del Sr. Juan usando Python y
 - Numpy
 - Matplotlib
 
-##Análisis Realizados
+## Análisis Realizados
 
 - **Cálculo de ingresos**: Se sumaron los valores de la columna `Precio` para estimar los ingresos de cada tienda.
 - **Ventas por categoría**: Se contaron las ventas por tipo de producto para identificar categorías populares.
@@ -28,7 +28,7 @@ Analizar y comparar el rendimiento de las 4 tiendas del Sr. Juan usando Python y
 - **Productos más y menos vendidos**: Se identificaron los productos con mayor y menor frecuencia de venta.
 - **Costo de envío promedio**: Se promedió el valor de la columna `Costo de envío` por tienda.
 
-##Conclusión
+## Conclusión
 
 Con base en todos los análisis realizados, se recomienda que el Sr. Juan **venda la Tienda 4**, ya que:
 
